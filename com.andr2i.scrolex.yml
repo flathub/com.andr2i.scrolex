@@ -37,6 +37,6 @@ modules:
     sources:
       - type: git
         url: https://github.com/molecule-man/scrolex.git
-        tag: 0.11.0
-        commit: 528469502f398c5526983de680ec1c30150f246e
+        tag: 0.11.1
+        commit: 5b7f68a4cf18a9d101e269f6f046e0f291a8476b
       - cargo-sources.json
